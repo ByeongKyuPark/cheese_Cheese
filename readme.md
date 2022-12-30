@@ -10,3 +10,5 @@ This game was created by a first-year game team called "77," which consisted of 
 
 Target operating system
     : Windows (64-bit)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oyPzfofS20Q/0.jpg)](https://www.youtube.com/watch?v=oyPzfofS20Q)
